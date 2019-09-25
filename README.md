@@ -1,1 +1,1 @@
-![dog.](/public/logo512.png)
+![dog.](/public/logo-512.png)

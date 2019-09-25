@@ -1,7 +1,13 @@
 {
   "name": "doggos",
   "version": "0.1.0",
+  "author": {
+    "email": "dev@lukesecomb.digital",
+    "name": "Luke Secomb",
+    "url": "https://lukesecomb.digital"
+  },
   "private": true,
+  "homepage": "https://how-big-is-your-dog.netlify.com/",
   "dependencies": {
     "@material-ui/core": "^4.4.3",
     "flubber": "^0.4.2",

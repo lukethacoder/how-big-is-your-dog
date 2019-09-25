@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  display: flex;
+  background-color: #F6F6F6;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+h1 {
+  color: #FFC501;
+  font-size: 1.5rem;
+}
+p {
+  color: #FFC501;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+.App-link {
+  position: fixed;
+  bottom: 12px;
+  color: #222;
+  font-size: 0.85rem;
+}
+.app-svg-container svg {
+  width: 400px;
+  max-width: 90vw;
+  max-height: 90vw;
+  min-height: 320px;
+  fill: #FFC501;
+}

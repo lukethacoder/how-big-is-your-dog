@@ -9,13 +9,13 @@
   "private": true,
   "homepage": "https://how-big-is-your-dog.netlify.com/",
   "dependencies": {
-    "@material-ui/core": "^4.4.3",
+    "@material-ui/core": "^4.12.4",
     "flubber": "^0.4.2",
     "popmotion": "^8.7.0",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-pose": "^4.0.8",
-    "react-scripts": "3.1.2",
+    "react-scripts": "5.0.1",
     "react-spring": "^8.0.27"
   },
   "scripts": {
